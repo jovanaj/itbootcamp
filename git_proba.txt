@@ -1,0 +1,8 @@
+lokacija/ git clone link
+lokacija/ folder projekta/ git status (posmatra projekat na nasem kompu da li smo ubacili na git)
+lokacija/ folder projekta/ git add <fajl>
+ali da potvrdis 
+git commit -m "test fajl added"
+i onda 
+git push
+git pull povuci sa gita
